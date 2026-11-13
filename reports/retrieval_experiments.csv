@@ -1,0 +1,7 @@
+experiment,chunk_size,overlap,k,question,expected_source_files,retrieved_source_files,required_evidence_retrieved,irrelevant_evidence_retrieved_review,final_answer_correct_review
+baseline,850,120,1,How do I place an order with Kifayah?,company_overview.csv,company_overview.csv,True,None,Correct: Website/App cart checkout
+baseline,850,120,3,How do I place an order with Kifayah?,company_overview.csv,company_overview.csv,True,None,Correct: Website/App cart checkout
+baseline,850,120,5,How do I place an order with Kifayah?,company_overview.csv,company_overview.csv,True,Minor general intro chunk,Correct: Website/App cart checkout
+baseline,850,120,1,What are the ingredients needed to make aloo gosht?,recipe_ingredient_mapping.csv,recipe_ingredient_mapping.csv,True,None,Correct: Potatoes, meat, spices
+baseline,850,120,3,What are the ingredients needed to make aloo gosht?,recipe_ingredient_mapping.csv,recipe_ingredient_mapping.csv,True,None,Correct: Potatoes, meat, spices
+baseline,850,120,5,What are the ingredients needed to make aloo gosht?,recipe_ingredient_mapping.csv,recipe_ingredient_mapping.csv,True,Adjacent recipe chunk,Correct: Potatoes, meat, spices
