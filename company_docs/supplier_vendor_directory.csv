@@ -1,0 +1,16 @@
+vendor_id,company_name,supplied_categories,primary_contact_person,phone_number,email,city,lead_time_days,min_order_quantity_pkr,payment_terms
+KFY-V001,Ali Gohar & Company,FMCG; packaged grocery; consumer goods,,0333-2185123,Sohail@aligohar.com,Karachi,2,25000,COD
+KFY-V002,SNP Distribution,Packaged foods; grocery distribution; FMCG,Sales Team,042-35715924 / 042-35879333,lahore@snpdist.com,Lahore,3,30000,NET 15
+KFY-V003,PK Foods,Dehydrated fruits; vegetables; herbs; food ingredients,Wholesale Enquiries,+92 310 8134367,support@pkfoods.com,Lahore,3,20000,COD
+KFY-V004,Asia Megafoods,Fresh produce; fruits; vegetables; rice; spices; dates; pulses,Saud Ali Ahsan,+92 315 2428313,info@amegafoods.com,Karachi,2,40000,COD
+KFY-V005,HAS Food Solutions,Spices; grains; herbs; dry fruits,Muhammad Faisal,+92 310 2080259,faisal@hasfoods.com,Karachi,2,30000,NET 15
+KFY-V006,National Foods Limited,Spices; recipe mixes; condiments; sauces; pickles,Corporate Sales,+92 21 38402022,,Karachi,3,50000,NET 30
+KFY-V007,Amir Rice Mills (Safeena Foods),Rice; grains; staple foods,Wholesale Sales,+92 300 8640089 / +92 308 0888888,export@amirice.com,"Kamoke, Gujranwala",4,50000,NET 15
+KFY-V008,Achha Foods,Milk; yogurt; cream; desi ghee; milk powder; packaged foods,Bulk Enquiries,0341-5942000 / 0300-8590420,,Lahore,3,25000,COD
+KFY-V009,Pacific Distributors,FMCG; packaged grocery; food and beverage brands,Sales Team,+92 21 34976520,,Karachi,2,35000,NET 15
+KFY-V010,Premier Group,FMCG; packaged grocery; consumer goods,Sales Team,+92 21 35123731,,Karachi,2,40000,NET 30
+KFY-V011,Abu Dawood Trading Company,FMCG; packaged foods; household consumer goods,Warehouse / Trade Sales,+92 300 2268824,,Karachi,2,40000,NET 15
+KFY-V012,United Brands Limited,Breakfast cereals; snacks; beverages; packaged grocery,B2B Sales Team,+92 21 37170183,,Karachi,3,50000,NET 30
+KFY-V013,M.I Impex,Agricultural commodities; fresh produce; food commodities,Sales Team,+92 323 5667507,,Karachi,2,30000,COD
+KFY-V014,Khalifa Sheraz & Co,Fresh fruits; vegetables; wholesale produce,Sales Team,+92 300 9283781,,Karachi,1,15000,COD
+KFY-V015,Ajwa Farms,Fresh produce; poultry; farm-sourced grocery staples,Sales Team,+92 321 2030009,,Karachi,2,20000,COD

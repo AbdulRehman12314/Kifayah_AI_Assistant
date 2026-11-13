@@ -1,0 +1,126 @@
+KIFAYAH STORE LOCATIONS & OPERATING HOURS Configuration file:
+store_locations_and_hours.txt Version: 1.0 Status: PROPOSED
+CONFIGURATION — VERIFY BEFORE GO-LIVE Tagline: Bachat Bhi, Sahulat Bhi
+
+===============================================================================
+IMPORTANT CONFIGURATION NOTES
+===============================================================================
+
+1.  This is a planning configuration for proposed Kifayah fulfillment
+    hubs. It does not assert that these hubs currently exist or that
+    premises are leased.
+2.  Exact street addresses, helpline numbers and named emergency
+    contacts are deployment fields. Confirm them before publishing or
+    activating the file.
+3.  Coverage radii are proposed road-distance limits, not straight-line
+    circles. Validate serviceability by street/area and rider capacity
+    at checkout.
+4.  All times are Pakistan Standard Time (PKT, UTC+05:00). Hours and
+    slots are proposed and must be approved against staffing, local
+    requirements and delivery-partner availability.
+
+===============================================================================
+HUB 1 — KARACHI
+===============================================================================
+
+Hub ID : KFY-KHI-01 City : Karachi, Sindh, Pakistan Suggested Hub Area :
+Gulshan-e-Iqbal / University Road corridor Street Address : [CONFIRM
+FULL STREET ADDRESS, BUILDING, FLOOR/UNIT] Verified Map Pin : [INSERT
+VERIFIED MAP PIN / COORDINATES] Operating Days : Monday to Sunday
+Operating Hours : 07:00–22:00 PKT Dispatch Slots : Morning : 08:00–12:00
+Afternoon : 12:00–16:00 Evening : 16:00–20:00 Late Dispatch :
+20:00–22:00 (limited capacity; pre-confirmation) Express Dispatch :
+90–120 minutes, only where enabled and capacity permits Helpline Phone
+Number : [INSERT VERIFIED KIFAYAH KARACHI HELPLINE] Emergency Escalation
+: [DUTY OPERATIONS MANAGER — NAME / ON-CALL NUMBER] Backup Escalation :
+[CITY SHIFT SUPERVISOR — NAME / ON-CALL NUMBER] Delivery Radius : 15 KM
+proposed road-distance radius Extended Coverage : Up to 20 KM only with
+authorised manual approval Suggested Coverage : Gulshan-e-Iqbal,
+Gulistan-e-Jauhar, Federal B Area, North Nazimabad, PECHS and nearby
+serviceable zones. Validate each street in the live delivery map.
+
+===============================================================================
+HUB 2 — LAHORE
+===============================================================================
+
+Hub ID : KFY-LHE-01 City : Lahore, Punjab, Pakistan Suggested Hub Area :
+Gulberg / Main Boulevard corridor Street Address : [CONFIRM FULL STREET
+ADDRESS, BUILDING, FLOOR/UNIT] Verified Map Pin : [INSERT VERIFIED MAP
+PIN / COORDINATES] Operating Days : Monday to Sunday Operating Hours :
+07:00–22:00 PKT Dispatch Slots : Morning : 08:00–12:00 Afternoon :
+12:00–16:00 Evening : 16:00–20:00 Late Dispatch : 20:00–22:00 (limited
+capacity; pre-confirmation) Express Dispatch : 90–120 minutes, only
+where enabled and capacity permits Helpline Phone Number : [INSERT
+VERIFIED KIFAYAH LAHORE HELPLINE] Emergency Escalation : [DUTY
+OPERATIONS MANAGER — NAME / ON-CALL NUMBER] Backup Escalation : [CITY
+SHIFT SUPERVISOR — NAME / ON-CALL NUMBER] Delivery Radius : 15 KM
+proposed road-distance radius Extended Coverage : Up to 20 KM only with
+authorised manual approval Suggested Coverage : Gulberg, Model Town,
+Faisal Town, Garden Town, Johar Town and nearby serviceable zones.
+Validate each street in the live delivery map.
+
+===============================================================================
+HUB 3 — ISLAMABAD
+===============================================================================
+
+Hub ID : KFY-ISB-01 City : Islamabad Capital Territory, Pakistan
+Suggested Hub Area : Blue Area / G-8 corridor Street Address : [CONFIRM
+FULL STREET ADDRESS, BUILDING, FLOOR/UNIT] Verified Map Pin : [INSERT
+VERIFIED MAP PIN / COORDINATES] Operating Days : Monday to Sunday
+Operating Hours : 07:00–22:00 PKT Dispatch Slots : Morning : 08:00–12:00
+Afternoon : 12:00–16:00 Evening : 16:00–20:00 Late Dispatch :
+20:00–22:00 (limited capacity; pre-confirmation) Express Dispatch :
+90–120 minutes, only where enabled and capacity permits Helpline Phone
+Number : [INSERT VERIFIED KIFAYAH ISLAMABAD HELPLINE] Emergency
+Escalation : [DUTY OPERATIONS MANAGER — NAME / ON-CALL NUMBER] Backup
+Escalation : [CITY SHIFT SUPERVISOR — NAME / ON-CALL NUMBER] Delivery
+Radius : 12 KM proposed road-distance radius Extended Coverage : Up to
+15 KM only with authorised manual approval Suggested Coverage : Blue
+Area, F-6, F-7, F-8, G-6, G-7, G-8 and nearby serviceable sectors.
+Validate each street in the live delivery map.
+
+===============================================================================
+COMMON DISPATCH & FACILITIES RULES
+===============================================================================
+
+1.  Dispatch slots are delivery windows, not guarantees of arrival at
+    the beginning of a window.
+2.  Accept express orders only when inventory, picking staff, rider
+    capacity and traffic conditions support the displayed estimate.
+3.  Do not accept orders outside the configured radius unless an
+    authorised manager approves an exception.
+4.  Store chilled and frozen goods under appropriate temperature
+    controls. Follow product-specific handling requirements and keep
+    temperature records.
+5.  Keep raw meat/seafood separate from ready-to-eat foods and other
+    goods.
+6.  Record opening/closing checks, refrigeration exceptions, stock
+    quarantine, dispatch delays and safety incidents.
+7.  Emergency escalation contacts must be staffed and tested before
+    launch. Production contact fields must never be left blank.
+8.  If a hub is unavailable, disable its service area in checkout. Route
+    orders to another hub only after its capacity and delivery times are
+    verified.
+9.  Public holidays, severe weather, road closures and security
+    restrictions may require adjusted hours or temporary suspension.
+10. Update the app and website whenever hours, slots, helplines or
+    coverage areas change.
+
+===============================================================================
+PRODUCTION ACTIVATION CHECKLIST
+===============================================================================
+
+[ ] Confirm legal entity / lease and exact physical address for each
+hub. [ ] Verify map pins and road-distance coverage using actual
+delivery routes. [ ] Validate serviceable neighbourhoods at
+street/postcode level. [ ] Assign and test a dedicated city helpline for
+each hub. [ ] Assign primary and backup emergency escalation coverage. [
+] Confirm staffing, inventory cut-off times and rider capacity per slot.
+[ ] Confirm cold-storage capacity and temperature monitoring procedures.
+[ ] Configure hub IDs, service areas, hours and slots in OMS/delivery
+systems. [ ] Publish only verified addresses, phone numbers and service
+hours. [ ] Obtain Operations, Facilities, Food Safety and Legal
+approval.
+
+Document Owner : Kifayah Facilities & Operations Last Reviewed : [INSERT
+DATE] Approved By : [INSERT AUTHORISED APPROVER]

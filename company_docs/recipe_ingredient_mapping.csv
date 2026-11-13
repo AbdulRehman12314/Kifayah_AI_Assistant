@@ -1,0 +1,112 @@
+recipe_id,recipe_name,servings,ingredient_product_id,ingredient_name,required_quantity,unit,is_mandatory,budget_substitute_name
+RCP-001,Chicken Biryani,4,KFY-0071,Chicken Whole,800,g,true,Chicken Leg Quarter
+RCP-001,Chicken Biryani,4,KFY-0105,Basmati Rice Super Kernel,600,g,true,IRRI-6 Rice
+RCP-001,Chicken Biryani,4,KFY-0002,Onion,300,g,true,Onion
+RCP-001,Chicken Biryani,4,KFY-0003,Tomato,250,g,true,Tomato
+RCP-001,Chicken Biryani,4,KFY-0045,Plain Yogurt,200,g,true,Plain Yogurt
+RCP-001,Chicken Biryani,4,KFY-0135,Cooking Oil,120,ml,true,Cooking Oil
+RCP-001,Chicken Biryani,4,KFY-0015,Ginger,30,g,true,Ginger
+RCP-001,Chicken Biryani,4,KFY-0014,Garlic,30,g,true,Garlic
+RCP-001,Chicken Biryani,4,KFY-0012,Green Chillies,20,g,false,Red Chilli Powder
+RCP-001,Chicken Biryani,4,KFY-0010,Fresh Coriander,20,g,false,Fresh Coriander
+RCP-001,Chicken Biryani,4,KFY-0011,Mint Leaves,15,g,false,Fresh Coriander
+RCP-001,Chicken Biryani,4,KFY-0144,Biryani Masala,50,g,true,Garam Masala
+RCP-001,Chicken Biryani,4,KFY-0160,Salt Iodized,12,g,true,Salt Iodized
+RCP-002,Daal Chawal,4,KFY-0116,Lentils Masoor,250,g,true,Lentils Moong
+RCP-002,Daal Chawal,4,KFY-0105,Basmati Rice Super Kernel,300,g,true,IRRI-6 Rice
+RCP-002,Daal Chawal,4,KFY-0002,Onion,120,g,true,Onion
+RCP-002,Daal Chawal,4,KFY-0003,Tomato,150,g,true,Tomato
+RCP-002,Daal Chawal,4,KFY-0014,Garlic,20,g,true,Garlic
+RCP-002,Daal Chawal,4,KFY-0015,Ginger,10,g,false,Ginger
+RCP-002,Daal Chawal,4,KFY-0135,Cooking Oil,50,ml,true,Cooking Oil
+RCP-002,Daal Chawal,4,KFY-0137,Turmeric Powder,4,g,true,Turmeric Powder
+RCP-002,Daal Chawal,4,KFY-0136,Red Chilli Powder,5,g,true,Red Chilli Powder
+RCP-002,Daal Chawal,4,KFY-0139,Cumin Seeds,5,g,true,Cumin Seeds
+RCP-002,Daal Chawal,4,KFY-0160,Salt Iodized,10,g,true,Salt Iodized
+RCP-002,Daal Chawal,4,KFY-0010,Fresh Coriander,15,g,false,Fresh Coriander
+RCP-003,Nihari,4,KFY-0077,Beef With Bone,1000,g,true,Beef Stew Cut
+RCP-003,Nihari,4,KFY-0002,Onion,200,g,true,Onion
+RCP-003,Nihari,4,KFY-0015,Ginger,35,g,true,Ginger
+RCP-003,Nihari,4,KFY-0014,Garlic,25,g,true,Garlic
+RCP-003,Nihari,4,KFY-0103,Wheat Flour,40,g,true,Maida
+RCP-003,Nihari,4,KFY-0135,Cooking Oil,120,ml,true,Cooking Oil
+RCP-003,Nihari,4,KFY-0146,Nihari Masala,60,g,true,Garam Masala
+RCP-003,Nihari,4,KFY-0136,Red Chilli Powder,5,g,false,Red Chilli Powder
+RCP-003,Nihari,4,KFY-0160,Salt Iodized,14,g,true,Salt Iodized
+RCP-003,Nihari,4,KFY-0010,Fresh Coriander,20,g,false,Fresh Coriander
+RCP-003,Nihari,4,KFY-0012,Green Chillies,20,g,false,Red Chilli Powder
+RCP-003,Nihari,4,KFY-0013,Lemon,80,g,false,Lemon
+RCP-004,Aloo Gosht,4,KFY-0081,Mutton With Bone,700,g,true,Beef With Bone
+RCP-004,Aloo Gosht,4,KFY-0001,Potato,500,g,true,Potato
+RCP-004,Aloo Gosht,4,KFY-0002,Onion,180,g,true,Onion
+RCP-004,Aloo Gosht,4,KFY-0003,Tomato,220,g,true,Tomato
+RCP-004,Aloo Gosht,4,KFY-0045,Plain Yogurt,100,g,false,Plain Yogurt
+RCP-004,Aloo Gosht,4,KFY-0135,Cooking Oil,80,ml,true,Cooking Oil
+RCP-004,Aloo Gosht,4,KFY-0015,Ginger,20,g,true,Ginger
+RCP-004,Aloo Gosht,4,KFY-0014,Garlic,20,g,true,Garlic
+RCP-004,Aloo Gosht,4,KFY-0136,Red Chilli Powder,6,g,true,Red Chilli Powder
+RCP-004,Aloo Gosht,4,KFY-0137,Turmeric Powder,3,g,true,Turmeric Powder
+RCP-004,Aloo Gosht,4,KFY-0138,Coriander Powder,8,g,true,Coriander Powder
+RCP-004,Aloo Gosht,4,KFY-0160,Salt Iodized,12,g,true,Salt Iodized
+RCP-005,Omelette Paratha,4,KFY-0055,Farm Eggs,4,pieces,true,Desi Eggs
+RCP-005,Omelette Paratha,4,KFY-0101,Wheat Flour Chakki,300,g,true,Wheat Flour
+RCP-005,Omelette Paratha,4,KFY-0002,Onion,80,g,false,Onion
+RCP-005,Omelette Paratha,4,KFY-0012,Green Chillies,15,g,false,Red Chilli Powder
+RCP-005,Omelette Paratha,4,KFY-0010,Fresh Coriander,10,g,false,Fresh Coriander
+RCP-005,Omelette Paratha,4,KFY-0135,Cooking Oil,80,ml,true,Cooking Oil
+RCP-005,Omelette Paratha,4,KFY-0160,Salt Iodized,6,g,true,Salt Iodized
+RCP-005,Omelette Paratha,4,KFY-0136,Red Chilli Powder,2,g,false,Black Pepper Powder
+RCP-006,Chicken Karahi,4,KFY-0071,Chicken Whole,1000,g,true,Chicken Leg Quarter
+RCP-006,Chicken Karahi,4,KFY-0003,Tomato,500,g,true,Tomato
+RCP-006,Chicken Karahi,4,KFY-0002,Onion,100,g,false,Onion
+RCP-006,Chicken Karahi,4,KFY-0015,Ginger,30,g,true,Ginger
+RCP-006,Chicken Karahi,4,KFY-0014,Garlic,25,g,true,Garlic
+RCP-006,Chicken Karahi,4,KFY-0012,Green Chillies,25,g,false,Red Chilli Powder
+RCP-006,Chicken Karahi,4,KFY-0135,Cooking Oil,100,ml,true,Cooking Oil
+RCP-006,Chicken Karahi,4,KFY-0136,Red Chilli Powder,6,g,true,Red Chilli Powder
+RCP-006,Chicken Karahi,4,KFY-0138,Coriander Powder,8,g,true,Coriander Powder
+RCP-006,Chicken Karahi,4,KFY-0142,Black Pepper Powder,3,g,false,Black Pepper Powder
+RCP-006,Chicken Karahi,4,KFY-0160,Salt Iodized,12,g,true,Salt Iodized
+RCP-006,Chicken Karahi,4,KFY-0010,Fresh Coriander,15,g,false,Fresh Coriander
+RCP-007,Chana Masala,4,KFY-0114,Chickpeas White,300,g,true,Chickpeas Black
+RCP-007,Chana Masala,4,KFY-0002,Onion,150,g,true,Onion
+RCP-007,Chana Masala,4,KFY-0003,Tomato,200,g,true,Tomato
+RCP-007,Chana Masala,4,KFY-0015,Ginger,15,g,true,Ginger
+RCP-007,Chana Masala,4,KFY-0014,Garlic,15,g,true,Garlic
+RCP-007,Chana Masala,4,KFY-0135,Cooking Oil,50,ml,true,Cooking Oil
+RCP-007,Chana Masala,4,KFY-0136,Red Chilli Powder,5,g,true,Red Chilli Powder
+RCP-007,Chana Masala,4,KFY-0137,Turmeric Powder,3,g,true,Turmeric Powder
+RCP-007,Chana Masala,4,KFY-0138,Coriander Powder,8,g,true,Coriander Powder
+RCP-007,Chana Masala,4,KFY-0139,Cumin Seeds,5,g,false,Cumin Seeds
+RCP-007,Chana Masala,4,KFY-0160,Salt Iodized,10,g,true,Salt Iodized
+RCP-007,Chana Masala,4,KFY-0010,Fresh Coriander,15,g,false,Fresh Coriander
+RCP-008,Seasonal Mixed Vegetable Curry,4,KFY-0001,Potato,300,g,true,Potato
+RCP-008,Seasonal Mixed Vegetable Curry,4,KFY-0007,Cauliflower,300,g,true,Cabbage
+RCP-008,Seasonal Mixed Vegetable Curry,4,KFY-0019,Green Peas,150,g,false,Dried Peas
+RCP-008,Seasonal Mixed Vegetable Curry,4,KFY-0004,Carrot,150,g,false,Red Carrot
+RCP-008,Seasonal Mixed Vegetable Curry,4,KFY-0002,Onion,120,g,true,Onion
+RCP-008,Seasonal Mixed Vegetable Curry,4,KFY-0003,Tomato,180,g,true,Tomato
+RCP-008,Seasonal Mixed Vegetable Curry,4,KFY-0135,Cooking Oil,60,ml,true,Cooking Oil
+RCP-008,Seasonal Mixed Vegetable Curry,4,KFY-0137,Turmeric Powder,3,g,true,Turmeric Powder
+RCP-008,Seasonal Mixed Vegetable Curry,4,KFY-0136,Red Chilli Powder,5,g,true,Red Chilli Powder
+RCP-008,Seasonal Mixed Vegetable Curry,4,KFY-0138,Coriander Powder,8,g,true,Coriander Powder
+RCP-008,Seasonal Mixed Vegetable Curry,4,KFY-0160,Salt Iodized,10,g,true,Salt Iodized
+RCP-008,Seasonal Mixed Vegetable Curry,4,KFY-0010,Fresh Coriander,15,g,false,Fresh Coriander
+RCP-009,Keema Matar,4,KFY-0078,Beef Mince,500,g,true,Chicken Mince
+RCP-009,Keema Matar,4,KFY-0019,Peas,200,g,true,Dried Peas
+RCP-009,Keema Matar,4,KFY-0002,Onion,150,g,true,Onion
+RCP-009,Keema Matar,4,KFY-0003,Tomato,200,g,true,Tomato
+RCP-009,Keema Matar,4,KFY-0015,Ginger,20,g,true,Ginger
+RCP-009,Keema Matar,4,KFY-0014,Garlic,20,g,true,Garlic
+RCP-009,Keema Matar,4,KFY-0135,Cooking Oil,70,ml,true,Cooking Oil
+RCP-009,Keema Matar,4,KFY-0136,Red Chilli Powder,5,g,true,Red Chilli Powder
+RCP-009,Keema Matar,4,KFY-0137,Turmeric Powder,3,g,true,Turmeric Powder
+RCP-009,Keema Matar,4,KFY-0138,Coriander Powder,8,g,true,Coriander Powder
+RCP-009,Keema Matar,4,KFY-0160,Salt Iodized,10,g,true,Salt Iodized
+RCP-009,Keema Matar,4,KFY-0010,Fresh Coriander,15,g,false,Fresh Coriander
+RCP-010,Rice Kheer,4,KFY-0105,Basmati Rice Super Kernel,100,g,true,Broken Rice
+RCP-010,Rice Kheer,4,KFY-0041,Fresh Milk,1500,ml,true,UHT Milk
+RCP-010,Rice Kheer,4,KFY-0111,Sugar,150,g,true,Sugar
+RCP-010,Rice Kheer,4,KFY-0153,Green Cardamom,3,g,false,Green Cardamom
+RCP-010,Rice Kheer,4,KFY-0044,Full Cream Milk Powder,30,g,false,Powdered Creamer
+RCP-010,Rice Kheer,4,KFY-0190,Almonds,30,g,false,Salted Peanuts
