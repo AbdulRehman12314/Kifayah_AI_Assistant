@@ -1,0 +1,41 @@
+vendor_id,company_name,supplied_categories,primary_contact_person,phone_number,email,city,lead_time_days,min_order_quantity_pkr,payment_terms
+KFY-V001,Ali Gohar & Company,FMCG; packaged grocery; consumer goods,,0333-2185123,Sohail@aligohar.com,Karachi,2,25000,COD
+KFY-V002,SNP Distribution,Packaged foods; grocery distribution; FMCG,Sales Team,042-35715924 / 042-35879333,lahore@snpdist.com,Lahore,3,30000,NET 15
+KFY-V003,PK Foods,Dehydrated fruits; vegetables; herbs; food ingredients,Wholesale Enquiries,+92 310 8134367,support@pkfoods.com,Lahore,3,20000,COD
+KFY-V004,Asia Megafoods,Fresh produce; fruits; vegetables; rice; spices; dates; pulses,Saud Ali Ahsan,+92 315 2428313,info@amegafoods.com,Karachi,2,40000,COD
+KFY-V005,HAS Food Solutions,Spices; grains; herbs; dry fruits,Muhammad Faisal,+92 310 2080259,faisal@hasfoods.com,Karachi,2,30000,NET 15
+KFY-V006,National Foods Limited,Spices; recipe mixes; condiments; sauces; pickles,Corporate Sales,+92 21 38402022,,Karachi,3,50000,NET 30
+KFY-V007,Amir Rice Mills (Safeena Foods),Rice; grains; staple foods,Wholesale Sales,+92 300 8640089 / +92 308 0888888,export@amirice.com,"Kamoke, Gujranwala",4,50000,NET 15
+KFY-V008,Achha Foods,Milk; yogurt; cream; desi ghee; milk powder; packaged foods,Bulk Enquiries,0341-5942000 / 0300-8590420,,Lahore,3,25000,COD
+KFY-V009,Pacific Distributors,FMCG; packaged grocery; food and beverage brands,Sales Team,+92 21 34976520,,Karachi,2,35000,NET 15
+KFY-V010,Premier Group,FMCG; packaged grocery; consumer goods,Sales Team,+92 21 35123731,,Karachi,2,40000,NET 30
+KFY-V011,Abu Dawood Trading Company,FMCG; packaged foods; household consumer goods,Warehouse / Trade Sales,+92 300 2268824,,Karachi,2,40000,NET 15
+KFY-V012,United Brands Limited,Breakfast cereals; snacks; beverages; packaged grocery,B2B Sales Team,+92 21 37170183,,Karachi,3,50000,NET 30
+KFY-V013,M.I Impex,Agricultural commodities; fresh produce; food commodities,Sales Team,+92 323 5667507,,Karachi,2,30000,COD
+KFY-V014,Khalifa Sheraz & Co,Fresh fruits; vegetables; wholesale produce,Sales Team,+92 300 9283781,,Karachi,1,15000,COD
+KFY-V015,Ajwa Farms,Fresh produce; poultry; farm-sourced grocery staples,Sales Team,+92 321 2030009,,Karachi,2,20000,COD
+KFY-V016,Engro Foods Distribution,Dairy & Eggs; Milk; Cream; Beverages,Kamran Siddiqui,021-35296000,sales@engrofoods.com,Karachi,2,35000,NET 15
+KFY-V017,Nestle Pakistan Supply,Dairy & Eggs; Breakfast; Juices; Coffee,Ayesha Tariq,042-35757080,corporate@pk.nestle.com,Lahore,2,40000,NET 30
+KFY-V018,Shan Foods Wholesale,Spices & Condiments; Blended Masalas; Pickles,Bilal Ahmed,021-35053076,orders@shanfoods.com,Karachi,2,25000,COD
+KFY-V019,National Foods Distributors,Spices & Condiments; Ketchup; Jams; Salt,Zainab Raza,021-35061541,supply@nfoods.com,Karachi,2,30000,NET 15
+KFY-V020,K&N's Poultry Supply,Meat & Seafood; Frozen Chicken; Nuggets,Usman Ghani,042-35714401,b2b@kandns.com,Lahore,1,20000,COD
+KFY-V021,Sabroso Frozen Foods,Meat & Seafood; Poultry; Ready-to-Cook,Faisal Mahmood,042-35884120,sales@sabroso.com.pk,Lahore,2,25000,COD
+KFY-V022,Dalda Foods Supply Chain,Staples & Grains; Cooking Oils; Banaspati,Tariq Mehmood,021-35063601,trade@daldafoods.com,Karachi,3,50000,NET 15
+KFY-V023,Guard Agricultural Research,Staples & Grains; Super Kernel Basmati Rice,Hamza Ali,042-35151395,rice@guardgroup.com.pk,Lahore,3,45000,NET 15
+KFY-V024,Tapal Tea Distributors,Beverages & Tea; Danedar; Green Tea,Sanaullah Khan,021-35063891,b2b@tapaltea.com,Karachi,2,30000,NET 15
+KFY-V025,Dawn Bread & Bakery Supply,Bakery & Snacks; Whole Wheat Bread; Buns,Rizwan Sheikh,021-35050070,orders@dawnbread.com,Karachi,1,10000,COD
+KFY-V026,English Biscuit Manufacturers (Peek Freans),Bakery & Snacks; Biscuits; Cookies,Nadia Javed,021-35066941,sales@ebm.com.pk,Karachi,2,25000,NET 15
+KFY-V027,Ismail Industries (Candyland/Bisconni),Bakery & Snacks; Confectionery; Snacks,Omer Farooq,021-35680015,trade@ismailindustries.com,Karachi,3,30000,NET 15
+KFY-V028,Fauji Foods Limited,Dairy & Eggs; Nurpur Butter; Milk; Cheese,Asadullah Shah,042-35750911,corporate@faujifoods.com,Lahore,2,35000,NET 15
+KFY-V029,Adams Milk Foods,Dairy & Eggs; Cheddar; Mozzarella; Yogurt,Hina Khalid,042-35912200,sales@adamsmilk.com,Lahore,2,25000,COD
+KFY-V030,Karachi Seafood & Fishery Co.,Meat & Seafood; Pomfret; Rohu; Prawns,Junaid Memon,021-32314589,fresh@karachifishery.pk,Karachi,1,15000,COD
+KFY-V031,Sargodha Citrus Orchards,Fresh Produce; Kinnow; Oranges; Seasonal Fruits,Chaudhry Akram,048-3721450,exports@sargodhafarms.pk,Sargodha,3,20000,COD
+KFY-V032,Multan Mango & Agri Farms,Fresh Produce; Sindhri Mango; Fruits,Makhdoom Shah,061-4512890,orders@multanorchards.pk,Multan,3,25000,COD
+KFY-V033,Mitchell's Fruit Farms,Spices & Condiments; Sauces; Pickles; Jams,Salman Butt,042-35872392,sales@mitchells.com.pk,Lahore,3,25000,NET 15
+KFY-V034,Shangrila Foods Pvt Ltd,Spices & Condiments; Chilli Sauce; Soy Sauce; Vinegar,Imran Qureshi,021-35054421,b2b@shangrila.com.pk,Karachi,2,20000,NET 15
+KFY-V035,Sunridge Foods (Unity),Staples & Grains; Chakki Atta; Maida; Sugar,Waqas Ahmed,021-34538810,sales@sunridgefoods.com,Karachi,2,40000,NET 15
+KFY-V036,Kolson (KS Sulemanji),Staples & Grains; Pasta; Spaghetti; Snacks,Zeeshan Haider,021-32561180,orders@kolson.com.pk,Karachi,2,25000,NET 15
+KFY-V037,Fauji Cereal (Oats),Staples & Grains; Rolled Oats; Porridge; Cornflakes,Majid Khan,051-5487120,sales@faujicereal.com.pk,Rawalpindi,3,20000,NET 15
+KFY-V038,PepsiCo Pakistan (Lay's/Kurkure),Bakery & Snacks; Potato Chips; Savory Snacks,Daniyal Mirza,042-35711901,trade@pepsico.pk,Lahore,2,30000,COD
+KFY-V039,Shezan International,Spices & Condiments; Juices; Pickles; Ketchup,Farhan Saeed,042-37466900,orders@shezan.com,Lahore,2,25000,NET 15
+KFY-V040,Mehran Spice & Food Industries,Spices & Condiments; Biryani Masala; Rice,Aamir Ismail,021-35066671,sales@mehranspice.com,Karachi,2,25000,NET 15

@@ -1,0 +1,486 @@
+recipe_id,recipe_name,diet_category,product_id,product_name,required_qty,unit,is_pantry_staple
+RCP-001,Aloo Gosht,Traditional Pakistani,KFY-0080,Mutton Boneless,1,500 g,False
+RCP-001,Aloo Gosht,Traditional Pakistani,KFY-0001,Potato,1,1 kg,True
+RCP-001,Aloo Gosht,Traditional Pakistani,KFY-0002,Onion,1,1 kg,True
+RCP-001,Aloo Gosht,Traditional Pakistani,KFY-0003,Tomato,1,1 kg,False
+RCP-001,Aloo Gosht,Traditional Pakistani,KFY-0147,Qorma Masala,1,50 g,True
+RCP-001,Aloo Gosht,Traditional Pakistani,KFY-0135,Cooking Oil,1,1 litre,True
+RCP-001,Aloo Gosht,Traditional Pakistani,KFY-0049,Salted Butter,1,100 g,True
+RCP-002,Chicken Karahi,High-Protein / Traditional,KFY-0071,Chicken Whole,1,1 kg,False
+RCP-002,Chicken Karahi,High-Protein / Traditional,KFY-0003,Tomato,1,1 kg,False
+RCP-002,Chicken Karahi,High-Protein / Traditional,KFY-0012,Green Chillies,1,250 g,True
+RCP-002,Chicken Karahi,High-Protein / Traditional,KFY-0015,Ginger,1,250 g,True
+RCP-002,Chicken Karahi,High-Protein / Traditional,KFY-0145,Karahi Masala,1,50 g,True
+RCP-002,Chicken Karahi,High-Protein / Traditional,KFY-0045,Plain Yogurt,1,1 kg,False
+RCP-002,Chicken Karahi,High-Protein / Traditional,KFY-0135,Cooking Oil,1,1 litre,True
+RCP-003,Chicken Biryani,Traditional Pakistani,KFY-0071,Chicken Whole,1,1 kg,False
+RCP-003,Chicken Biryani,Traditional Pakistani,KFY-0105,Basmati Rice Super Kernel,1,1 kg,True
+RCP-003,Chicken Biryani,Traditional Pakistani,KFY-0002,Onion,1,1 kg,True
+RCP-003,Chicken Biryani,Traditional Pakistani,KFY-0003,Tomato,1,1 kg,False
+RCP-003,Chicken Biryani,Traditional Pakistani,KFY-0144,Biryani Masala,1,50 g,True
+RCP-003,Chicken Biryani,Traditional Pakistani,KFY-0045,Plain Yogurt,1,1 kg,False
+RCP-003,Chicken Biryani,Traditional Pakistani,KFY-0010,Fresh Coriander,1,1 bunch,False
+RCP-004,Keto Chicken & Cheese Bowl,Keto / Low-Carb / High-Protein,KFY-0071,Chicken Whole,1,1 kg,False
+RCP-004,Keto Chicken & Cheese Bowl,Keto / Low-Carb / High-Protein,KFY-0050,Cheddar Cheese,1,200 g,False
+RCP-004,Keto Chicken & Cheese Bowl,Keto / Low-Carb / High-Protein,KFY-0009,Spinach,1,1 bunch,False
+RCP-004,Keto Chicken & Cheese Bowl,Keto / Low-Carb / High-Protein,KFY-0259,Eva Extra Virgin Olive Oil Tin - Value Pack,1,250ml,True
+RCP-004,Keto Chicken & Cheese Bowl,Keto / Low-Carb / High-Protein,KFY-0048,Butter,1,200 g,False
+RCP-005,Daal Chawal,Vegetarian / Weight-Loss,KFY-0016,Sweet Potato,1,1 kg,True
+RCP-005,Daal Chawal,Vegetarian / Weight-Loss,KFY-0105,Basmati Rice Super Kernel,1,1 kg,True
+RCP-005,Daal Chawal,Vegetarian / Weight-Loss,KFY-0137,Turmeric Powder,1,100 g,True
+RCP-005,Daal Chawal,Vegetarian / Weight-Loss,KFY-0012,Green Chillies,1,250 g,True
+RCP-005,Daal Chawal,Vegetarian / Weight-Loss,KFY-0014,Garlic,1,250 g,True
+RCP-006,Beef Nihari,Traditional Pakistani,KFY-0076,Beef Boneless,1,1 kg,False
+RCP-006,Beef Nihari,Traditional Pakistani,KFY-0234,Sufi Multi-Grain Chakki Atta - Chef's Choice,1,5 kg,True
+RCP-006,Beef Nihari,Traditional Pakistani,KFY-0146,Nihari Masala,1,50 g,True
+RCP-006,Beef Nihari,Traditional Pakistani,KFY-0015,Ginger,1,250 g,True
+RCP-006,Beef Nihari,Traditional Pakistani,KFY-0135,Cooking Oil,1,1 litre,True
+RCP-006,Beef Nihari,Traditional Pakistani,KFY-0002,Onion,1,1 kg,True
+RCP-007,Mutton Korma,Traditional Pakistani,KFY-0080,Mutton Boneless,1,500 g,False
+RCP-007,Mutton Korma,Traditional Pakistani,KFY-0002,Onion,1,1 kg,True
+RCP-007,Mutton Korma,Traditional Pakistani,KFY-0045,Plain Yogurt,1,1 kg,False
+RCP-007,Mutton Korma,Traditional Pakistani,KFY-0147,Qorma Masala,1,50 g,True
+RCP-007,Mutton Korma,Traditional Pakistani,KFY-0047,Desi Ghee,1,500 g,True
+RCP-008,Beef Haleem,High-Protein / Traditional,KFY-0076,Beef Boneless,1,1 kg,False
+RCP-008,Beef Haleem,High-Protein / Traditional,KFY-0025,Apple Gala,1,1 kg,False
+RCP-008,Beef Haleem,High-Protein / Traditional,KFY-0025,Apple Gala,1,1 kg,False
+RCP-008,Beef Haleem,High-Protein / Traditional,KFY-0123,Oats,1,500 g,False
+RCP-008,Beef Haleem,High-Protein / Traditional,KFY-0264,Ahmed Foods Haleem Masala Mix - Family Size,1,100g,True
+RCP-008,Beef Haleem,High-Protein / Traditional,KFY-0002,Onion,1,1 kg,True
+RCP-009,Chicken Handi Boneless,High-Protein / Creamy,KFY-0071,Chicken Whole,1,1 kg,False
+RCP-009,Chicken Handi Boneless,High-Protein / Creamy,KFY-0003,Tomato,1,1 kg,False
+RCP-009,Chicken Handi Boneless,High-Protein / Creamy,KFY-0045,Plain Yogurt,1,1 kg,False
+RCP-009,Chicken Handi Boneless,High-Protein / Creamy,KFY-0044,Full Cream Milk Powder,1,400 g,False
+RCP-009,Chicken Handi Boneless,High-Protein / Creamy,KFY-0145,Karahi Masala,1,50 g,True
+RCP-010,Palak Paneer (Keto),Keto / Vegetarian,KFY-0009,Spinach,1,1 bunch,False
+RCP-010,Palak Paneer (Keto),Keto / Vegetarian,KFY-0061,Paneer,1,250 g,False
+RCP-010,Palak Paneer (Keto),Keto / Vegetarian,KFY-0002,Onion,1,1 kg,True
+RCP-010,Palak Paneer (Keto),Keto / Vegetarian,KFY-0003,Tomato,1,1 kg,False
+RCP-010,Palak Paneer (Keto),Keto / Vegetarian,KFY-0047,Desi Ghee,1,500 g,True
+RCP-011,Keto Grilled Chicken Salad,Keto / Weight-Loss / High-Protein,KFY-0071,Chicken Whole,1,1 kg,False
+RCP-011,Keto Grilled Chicken Salad,Keto / Weight-Loss / High-Protein,KFY-0005,Cucumber,1,1 kg,False
+RCP-011,Keto Grilled Chicken Salad,Keto / Weight-Loss / High-Protein,KFY-0009,Spinach,1,1 bunch,False
+RCP-011,Keto Grilled Chicken Salad,Keto / Weight-Loss / High-Protein,KFY-0259,Eva Extra Virgin Olive Oil Tin - Value Pack,1,250ml,True
+RCP-011,Keto Grilled Chicken Salad,Keto / Weight-Loss / High-Protein,KFY-0050,Cheddar Cheese,1,200 g,False
+RCP-012,High-Protein Chicken Tikka,High-Protein / Keto,KFY-0071,Chicken Whole,1,1 kg,False
+RCP-012,High-Protein Chicken Tikka,High-Protein / Keto,KFY-0045,Plain Yogurt,1,1 kg,False
+RCP-012,High-Protein Chicken Tikka,High-Protein / Keto,KFY-0266,National Tikka Boti Masala - Select,1,50g,True
+RCP-012,High-Protein Chicken Tikka,High-Protein / Keto,KFY-0013,Lemon,1,500 g,False
+RCP-013,Weight-Loss Oats Smoothie,Weight-Loss / Healthy Breakfast,KFY-0123,Oats,1,500 g,False
+RCP-013,Weight-Loss Oats Smoothie,Weight-Loss / Healthy Breakfast,KFY-0026,Banana,1,1 dozen,False
+RCP-013,Weight-Loss Oats Smoothie,Weight-Loss / Healthy Breakfast,KFY-0041,Fresh Milk,1,1 litre,False
+RCP-013,Weight-Loss Oats Smoothie,Weight-Loss / Healthy Breakfast,KFY-0223,Lurpak Almond Milk Unsweetened - Economy,1,1 Liter,False
+RCP-014,Bhindi Masala (Okra Fry),Vegetarian / Diabetic-Friendly,KFY-0043,Low Fat Milk,1,1 litre,False
+RCP-014,Bhindi Masala (Okra Fry),Vegetarian / Diabetic-Friendly,KFY-0002,Onion,1,1 kg,True
+RCP-014,Bhindi Masala (Okra Fry),Vegetarian / Diabetic-Friendly,KFY-0003,Tomato,1,1 kg,False
+RCP-014,Bhindi Masala (Okra Fry),Vegetarian / Diabetic-Friendly,KFY-0012,Green Chillies,1,250 g,True
+RCP-014,Bhindi Masala (Okra Fry),Vegetarian / Diabetic-Friendly,KFY-0135,Cooking Oil,1,1 litre,True
+RCP-015,Aloo Gobhi,Vegetarian / Budget Meal,KFY-0007,Cauliflower,1,1 kg,False
+RCP-015,Aloo Gobhi,Vegetarian / Budget Meal,KFY-0001,Potato,1,1 kg,True
+RCP-015,Aloo Gobhi,Vegetarian / Budget Meal,KFY-0003,Tomato,1,1 kg,False
+RCP-015,Aloo Gobhi,Vegetarian / Budget Meal,KFY-0137,Turmeric Powder,1,100 g,True
+RCP-015,Aloo Gobhi,Vegetarian / Budget Meal,KFY-0135,Cooking Oil,1,1 litre,True
+RCP-016,Peshawari Chapli Kabab,High-Protein / Keto,KFY-0049,Salted Butter,1,100 g,True
+RCP-016,Peshawari Chapli Kabab,High-Protein / Keto,KFY-0002,Onion,1,1 kg,True
+RCP-016,Peshawari Chapli Kabab,High-Protein / Keto,KFY-0003,Tomato,1,1 kg,False
+RCP-016,Peshawari Chapli Kabab,High-Protein / Keto,KFY-0055,Farm Eggs,1,1 dozen,False
+RCP-016,Peshawari Chapli Kabab,High-Protein / Keto,KFY-0268,Shan Chapli Kabab Masala - Economy,1,50g,True
+RCP-017,Keema Matar,High-Protein / Traditional,KFY-0052,Processed Cheese Slices,1,10 slices,False
+RCP-017,Keema Matar,High-Protein / Traditional,KFY-0002,Onion,1,1 kg,True
+RCP-017,Keema Matar,High-Protein / Traditional,KFY-0003,Tomato,1,1 kg,False
+RCP-017,Keema Matar,High-Protein / Traditional,KFY-0143,Garam Masala,1,100 g,True
+RCP-017,Keema Matar,High-Protein / Traditional,KFY-0135,Cooking Oil,1,1 litre,True
+RCP-018,Lahori Chana Masala,Vegetarian / High-Protein,KFY-0244,Kifayah Staples Black Chickpeas (Kala Chana) - Economy,1,500g,False
+RCP-018,Lahori Chana Masala,Vegetarian / High-Protein,KFY-0002,Onion,1,1 kg,True
+RCP-018,Lahori Chana Masala,Vegetarian / High-Protein,KFY-0003,Tomato,1,1 kg,False
+RCP-018,Lahori Chana Masala,Vegetarian / High-Protein,KFY-0012,Green Chillies,1,250 g,True
+RCP-018,Lahori Chana Masala,Vegetarian / High-Protein,KFY-0135,Cooking Oil,1,1 litre,True
+RCP-019,Chicken White Karahi,High-Protein / Keto,KFY-0071,Chicken Whole,1,1 kg,False
+RCP-019,Chicken White Karahi,High-Protein / Keto,KFY-0045,Plain Yogurt,1,1 kg,False
+RCP-019,Chicken White Karahi,High-Protein / Keto,KFY-0044,Full Cream Milk Powder,1,400 g,False
+RCP-019,Chicken White Karahi,High-Protein / Keto,KFY-0141,Black Pepper Whole,1,50 g,True
+RCP-019,Chicken White Karahi,High-Protein / Keto,KFY-0048,Butter,1,200 g,False
+RCP-020,Mutton Pulao (Yakhni),Traditional Pakistani,KFY-0080,Mutton Boneless,1,500 g,False
+RCP-020,Mutton Pulao (Yakhni),Traditional Pakistani,KFY-0105,Basmati Rice Super Kernel,1,1 kg,True
+RCP-020,Mutton Pulao (Yakhni),Traditional Pakistani,KFY-0002,Onion,1,1 kg,True
+RCP-020,Mutton Pulao (Yakhni),Traditional Pakistani,KFY-0143,Garam Masala,1,100 g,True
+RCP-020,Mutton Pulao (Yakhni),Traditional Pakistani,KFY-0014,Garlic,1,250 g,True
+RCP-021,Beef Seekh Kabab,High-Protein / Keto,KFY-0064,Evaporated Milk,1,410 g,False
+RCP-021,Beef Seekh Kabab,High-Protein / Keto,KFY-0002,Onion,1,1 kg,True
+RCP-021,Beef Seekh Kabab,High-Protein / Keto,KFY-0012,Green Chillies,1,250 g,True
+RCP-021,Beef Seekh Kabab,High-Protein / Keto,KFY-0143,Garam Masala,1,100 g,True
+RCP-021,Beef Seekh Kabab,High-Protein / Keto,KFY-0047,Desi Ghee,1,500 g,True
+RCP-022,Anda Paratha (Desi Breakfast),Traditional Breakfast,KFY-0055,Farm Eggs,1,1 dozen,False
+RCP-022,Anda Paratha (Desi Breakfast),Traditional Breakfast,KFY-0234,Sufi Multi-Grain Chakki Atta - Chef's Choice,1,5 kg,True
+RCP-022,Anda Paratha (Desi Breakfast),Traditional Breakfast,KFY-0047,Desi Ghee,1,500 g,True
+RCP-022,Anda Paratha (Desi Breakfast),Traditional Breakfast,KFY-0049,Salted Butter,1,100 g,True
+RCP-023,Halwa Puri Chana Platter,Traditional Weekend Breakfast,KFY-0104,Maida,1,1 kg,False
+RCP-023,Halwa Puri Chana Platter,Traditional Weekend Breakfast,KFY-0244,Kifayah Staples Black Chickpeas (Kala Chana) - Economy,1,500g,False
+RCP-023,Halwa Puri Chana Platter,Traditional Weekend Breakfast,KFY-0135,Cooking Oil,1,1 litre,True
+RCP-023,Halwa Puri Chana Platter,Traditional Weekend Breakfast,KFY-0111,Sugar,1,1 kg,True
+RCP-024,Daal Mash Fry (Dhaba Style),Vegetarian / High-Protein,KFY-0240,Dalda Daal Mash (White Lentil) - Classic,1,500g,True
+RCP-024,Daal Mash Fry (Dhaba Style),Vegetarian / High-Protein,KFY-0002,Onion,1,1 kg,True
+RCP-024,Daal Mash Fry (Dhaba Style),Vegetarian / High-Protein,KFY-0003,Tomato,1,1 kg,False
+RCP-024,Daal Mash Fry (Dhaba Style),Vegetarian / High-Protein,KFY-0015,Ginger,1,250 g,True
+RCP-024,Daal Mash Fry (Dhaba Style),Vegetarian / High-Protein,KFY-0048,Butter,1,200 g,False
+RCP-025,Shami Kabab (Beef & Daal),High-Protein / Snack,KFY-0076,Beef Boneless,1,1 kg,False
+RCP-025,Shami Kabab (Beef & Daal),High-Protein / Snack,KFY-0076,Beef Boneless,1,1 kg,False
+RCP-025,Shami Kabab (Beef & Daal),High-Protein / Snack,KFY-0055,Farm Eggs,1,1 dozen,False
+RCP-025,Shami Kabab (Beef & Daal),High-Protein / Snack,KFY-0143,Garam Masala,1,100 g,True
+RCP-025,Shami Kabab (Beef & Daal),High-Protein / Snack,KFY-0002,Onion,1,1 kg,True
+RCP-026,Chicken Jalfrezi,High-Protein / Low-Carb,KFY-0071,Chicken Whole,1,1 kg,False
+RCP-026,Chicken Jalfrezi,High-Protein / Low-Carb,KFY-0003,Tomato,1,1 kg,False
+RCP-026,Chicken Jalfrezi,High-Protein / Low-Carb,KFY-0002,Onion,1,1 kg,True
+RCP-026,Chicken Jalfrezi,High-Protein / Low-Carb,KFY-0164,Tomato Ketchup,1,500 g,False
+RCP-026,Chicken Jalfrezi,High-Protein / Low-Carb,KFY-0135,Cooking Oil,1,1 litre,True
+RCP-027,Beef Kofta Curry,High-Protein / Traditional,KFY-0082,Mutton Chops,1,500 g,False
+RCP-027,Beef Kofta Curry,High-Protein / Traditional,KFY-0128,Gram Flour Besan,1,500 g,True
+RCP-027,Beef Kofta Curry,High-Protein / Traditional,KFY-0002,Onion,1,1 kg,True
+RCP-027,Beef Kofta Curry,High-Protein / Traditional,KFY-0003,Tomato,1,1 kg,False
+RCP-027,Beef Kofta Curry,High-Protein / Traditional,KFY-0147,Qorma Masala,1,50 g,True
+RCP-028,Daal Tadka (Moong & Masoor),Vegetarian / Weight-Loss,KFY-0238,Kolson Daal Moong Washed - Family Size,1,500g,True
+RCP-028,Daal Tadka (Moong & Masoor),Vegetarian / Weight-Loss,KFY-0085,Fresh Catla,1,1 kg,False
+RCP-028,Daal Tadka (Moong & Masoor),Vegetarian / Weight-Loss,KFY-0014,Garlic,1,250 g,True
+RCP-028,Daal Tadka (Moong & Masoor),Vegetarian / Weight-Loss,KFY-0139,Cumin Seeds,1,100 g,True
+RCP-028,Daal Tadka (Moong & Masoor),Vegetarian / Weight-Loss,KFY-0047,Desi Ghee,1,500 g,True
+RCP-029,Chicken Shashlik with Rice,Balanced Meal,KFY-0071,Chicken Whole,1,1 kg,False
+RCP-029,Chicken Shashlik with Rice,Balanced Meal,KFY-0105,Basmati Rice Super Kernel,1,1 kg,True
+RCP-029,Chicken Shashlik with Rice,Balanced Meal,KFY-0003,Tomato,1,1 kg,False
+RCP-029,Chicken Shashlik with Rice,Balanced Meal,KFY-0164,Tomato Ketchup,1,500 g,False
+RCP-029,Chicken Shashlik with Rice,Balanced Meal,KFY-0162,White Vinegar,1,800 ml,False
+RCP-030,Fish Masala Curry (Rohu),High-Protein / Keto / Weight-Loss,KFY-0084,Fresh Rohu,1,1 kg,False
+RCP-030,Fish Masala Curry (Rohu),High-Protein / Keto / Weight-Loss,KFY-0003,Tomato,1,1 kg,False
+RCP-030,Fish Masala Curry (Rohu),High-Protein / Keto / Weight-Loss,KFY-0002,Onion,1,1 kg,True
+RCP-030,Fish Masala Curry (Rohu),High-Protein / Keto / Weight-Loss,KFY-0137,Turmeric Powder,1,100 g,True
+RCP-030,Fish Masala Curry (Rohu),High-Protein / Keto / Weight-Loss,KFY-0135,Cooking Oil,1,1 litre,True
+RCP-031,Grilled Pomfret Fish,Keto / High-Protein / Weight-Loss,KFY-0088,Pomfret,1,500 g,False
+RCP-031,Grilled Pomfret Fish,Keto / High-Protein / Weight-Loss,KFY-0013,Lemon,1,500 g,False
+RCP-031,Grilled Pomfret Fish,Keto / High-Protein / Weight-Loss,KFY-0014,Garlic,1,250 g,True
+RCP-031,Grilled Pomfret Fish,Keto / High-Protein / Weight-Loss,KFY-0259,Eva Extra Virgin Olive Oil Tin - Value Pack,1,250ml,True
+RCP-031,Grilled Pomfret Fish,Keto / High-Protein / Weight-Loss,KFY-0141,Black Pepper Whole,1,50 g,True
+RCP-032,Prawn Masala Karahi,High-Protein / Keto,KFY-0089,Prawns Medium,1,500 g,False
+RCP-032,Prawn Masala Karahi,High-Protein / Keto,KFY-0003,Tomato,1,1 kg,False
+RCP-032,Prawn Masala Karahi,High-Protein / Keto,KFY-0014,Garlic,1,250 g,True
+RCP-032,Prawn Masala Karahi,High-Protein / Keto,KFY-0012,Green Chillies,1,250 g,True
+RCP-032,Prawn Masala Karahi,High-Protein / Keto,KFY-0048,Butter,1,200 g,False
+RCP-033,Keto Omelette with Cheese & Spinach,Keto / High-Protein Breakfast,KFY-0055,Farm Eggs,1,1 dozen,False
+RCP-033,Keto Omelette with Cheese & Spinach,Keto / High-Protein Breakfast,KFY-0050,Cheddar Cheese,1,200 g,False
+RCP-033,Keto Omelette with Cheese & Spinach,Keto / High-Protein Breakfast,KFY-0009,Spinach,1,1 bunch,False
+RCP-033,Keto Omelette with Cheese & Spinach,Keto / High-Protein Breakfast,KFY-0048,Butter,1,200 g,False
+RCP-034,Chicken Corn Soup,Weight-Loss / Low-Calorie,KFY-0071,Chicken Whole,1,1 kg,False
+RCP-034,Chicken Corn Soup,Weight-Loss / Low-Calorie,KFY-0124,Cornflakes,1,500 g,False
+RCP-034,Chicken Corn Soup,Weight-Loss / Low-Calorie,KFY-0055,Farm Eggs,1,1 dozen,False
+RCP-034,Chicken Corn Soup,Weight-Loss / Low-Calorie,KFY-0162,White Vinegar,1,800 ml,False
+RCP-034,Chicken Corn Soup,Weight-Loss / Low-Calorie,KFY-0141,Black Pepper Whole,1,50 g,True
+RCP-035,Aloo Matar (Potato & Peas),Vegetarian / Budget Meal,KFY-0001,Potato,1,1 kg,True
+RCP-035,Aloo Matar (Potato & Peas),Vegetarian / Budget Meal,KFY-0002,Onion,1,1 kg,True
+RCP-035,Aloo Matar (Potato & Peas),Vegetarian / Budget Meal,KFY-0003,Tomato,1,1 kg,False
+RCP-035,Aloo Matar (Potato & Peas),Vegetarian / Budget Meal,KFY-0012,Green Chillies,1,250 g,True
+RCP-035,Aloo Matar (Potato & Peas),Vegetarian / Budget Meal,KFY-0135,Cooking Oil,1,1 litre,True
+RCP-036,Baingan Bharta,Vegetarian / Weight-Loss,KFY-0002,Onion,1,1 kg,True
+RCP-036,Baingan Bharta,Vegetarian / Weight-Loss,KFY-0003,Tomato,1,1 kg,False
+RCP-036,Baingan Bharta,Vegetarian / Weight-Loss,KFY-0014,Garlic,1,250 g,True
+RCP-036,Baingan Bharta,Vegetarian / Weight-Loss,KFY-0012,Green Chillies,1,250 g,True
+RCP-036,Baingan Bharta,Vegetarian / Weight-Loss,KFY-0135,Cooking Oil,1,1 litre,True
+RCP-037,Karhi Pakora,Traditional Pakistani,KFY-0128,Gram Flour Besan,1,500 g,True
+RCP-037,Karhi Pakora,Traditional Pakistani,KFY-0045,Plain Yogurt,1,1 kg,False
+RCP-037,Karhi Pakora,Traditional Pakistani,KFY-0002,Onion,1,1 kg,True
+RCP-037,Karhi Pakora,Traditional Pakistani,KFY-0137,Turmeric Powder,1,100 g,True
+RCP-037,Karhi Pakora,Traditional Pakistani,KFY-0135,Cooking Oil,1,1 litre,True
+RCP-038,Chicken Makhni (Butter Chicken),High-Protein / Rich,KFY-0071,Chicken Whole,1,1 kg,False
+RCP-038,Chicken Makhni (Butter Chicken),High-Protein / Rich,KFY-0048,Butter,1,200 g,False
+RCP-038,Chicken Makhni (Butter Chicken),High-Protein / Rich,KFY-0044,Full Cream Milk Powder,1,400 g,False
+RCP-038,Chicken Makhni (Butter Chicken),High-Protein / Rich,KFY-0003,Tomato,1,1 kg,False
+RCP-038,Chicken Makhni (Butter Chicken),High-Protein / Rich,KFY-0143,Garam Masala,1,100 g,True
+RCP-039,Sindhi Biryani,Traditional Pakistani,KFY-0071,Chicken Whole,1,1 kg,False
+RCP-039,Sindhi Biryani,Traditional Pakistani,KFY-0105,Basmati Rice Super Kernel,1,1 kg,True
+RCP-039,Sindhi Biryani,Traditional Pakistani,KFY-0001,Potato,1,1 kg,True
+RCP-039,Sindhi Biryani,Traditional Pakistani,KFY-0144,Biryani Masala,1,50 g,True
+RCP-039,Sindhi Biryani,Traditional Pakistani,KFY-0045,Plain Yogurt,1,1 kg,False
+RCP-040,Beef Pulao,Traditional Pakistani,KFY-0076,Beef Boneless,1,1 kg,False
+RCP-040,Beef Pulao,Traditional Pakistani,KFY-0105,Basmati Rice Super Kernel,1,1 kg,True
+RCP-040,Beef Pulao,Traditional Pakistani,KFY-0002,Onion,1,1 kg,True
+RCP-040,Beef Pulao,Traditional Pakistani,KFY-0143,Garam Masala,1,100 g,True
+RCP-040,Beef Pulao,Traditional Pakistani,KFY-0135,Cooking Oil,1,1 litre,True
+RCP-041,Chicken Reshmi Kabab,High-Protein / Keto,KFY-0071,Chicken Whole,1,1 kg,False
+RCP-041,Chicken Reshmi Kabab,High-Protein / Keto,KFY-0044,Full Cream Milk Powder,1,400 g,False
+RCP-041,Chicken Reshmi Kabab,High-Protein / Keto,KFY-0045,Plain Yogurt,1,1 kg,False
+RCP-041,Chicken Reshmi Kabab,High-Protein / Keto,KFY-0141,Black Pepper Whole,1,50 g,True
+RCP-041,Chicken Reshmi Kabab,High-Protein / Keto,KFY-0048,Butter,1,200 g,False
+RCP-042,Mutton Chops Masala,High-Protein / Keto,KFY-0082,Mutton Chops,1,500 g,False
+RCP-042,Mutton Chops Masala,High-Protein / Keto,KFY-0045,Plain Yogurt,1,1 kg,False
+RCP-042,Mutton Chops Masala,High-Protein / Keto,KFY-0015,Ginger,1,250 g,True
+RCP-042,Mutton Chops Masala,High-Protein / Keto,KFY-0143,Garam Masala,1,100 g,True
+RCP-042,Mutton Chops Masala,High-Protein / Keto,KFY-0047,Desi Ghee,1,500 g,True
+RCP-043,Aloo Keema,High-Protein / Traditional,KFY-0130,Sago Sabudana,1,500 g,False
+RCP-043,Aloo Keema,High-Protein / Traditional,KFY-0001,Potato,1,1 kg,True
+RCP-043,Aloo Keema,High-Protein / Traditional,KFY-0002,Onion,1,1 kg,True
+RCP-043,Aloo Keema,High-Protein / Traditional,KFY-0003,Tomato,1,1 kg,False
+RCP-043,Aloo Keema,High-Protein / Traditional,KFY-0143,Garam Masala,1,100 g,True
+RCP-044,Chicken Achari,High-Protein / Spicy,KFY-0071,Chicken Whole,1,1 kg,False
+RCP-044,Chicken Achari,High-Protein / Spicy,KFY-0284,Salman’s Mango Achar in Oil - Fresh Pack,1,400g,True
+RCP-044,Chicken Achari,High-Protein / Spicy,KFY-0045,Plain Yogurt,1,1 kg,False
+RCP-044,Chicken Achari,High-Protein / Spicy,KFY-0003,Tomato,1,1 kg,False
+RCP-044,Chicken Achari,High-Protein / Spicy,KFY-0135,Cooking Oil,1,1 litre,True
+RCP-045,Sabzi Pulao (Vegetable Rice),Vegetarian / Vegan,KFY-0105,Basmati Rice Super Kernel,1,1 kg,True
+RCP-045,Sabzi Pulao (Vegetable Rice),Vegetarian / Vegan,KFY-0001,Potato,1,1 kg,True
+RCP-045,Sabzi Pulao (Vegetable Rice),Vegetarian / Vegan,KFY-0004,Red Carrot,1,1 kg,False
+RCP-045,Sabzi Pulao (Vegetable Rice),Vegetarian / Vegan,KFY-0139,Cumin Seeds,1,100 g,True
+RCP-045,Sabzi Pulao (Vegetable Rice),Vegetarian / Vegan,KFY-0135,Cooking Oil,1,1 litre,True
+RCP-046,Chana Chaat (High-Fiber),Weight-Loss / Vegan Snack,KFY-0244,Kifayah Staples Black Chickpeas (Kala Chana) - Economy,1,500g,False
+RCP-046,Chana Chaat (High-Fiber),Weight-Loss / Vegan Snack,KFY-0002,Onion,1,1 kg,True
+RCP-046,Chana Chaat (High-Fiber),Weight-Loss / Vegan Snack,KFY-0003,Tomato,1,1 kg,False
+RCP-046,Chana Chaat (High-Fiber),Weight-Loss / Vegan Snack,KFY-0280,Shangrila Tamarind (Imli) Paste - Family Size,1,250g,False
+RCP-046,Chana Chaat (High-Fiber),Weight-Loss / Vegan Snack,KFY-0012,Green Chillies,1,250 g,True
+RCP-047,Dahi Baray (Ramadan Special),Vegetarian Snack,KFY-0128,Gram Flour Besan,1,500 g,True
+RCP-047,Dahi Baray (Ramadan Special),Vegetarian Snack,KFY-0045,Plain Yogurt,1,1 kg,False
+RCP-047,Dahi Baray (Ramadan Special),Vegetarian Snack,KFY-0280,Shangrila Tamarind (Imli) Paste - Family Size,1,250g,False
+RCP-047,Dahi Baray (Ramadan Special),Vegetarian Snack,KFY-0012,Green Chillies,1,250 g,True
+RCP-047,Dahi Baray (Ramadan Special),Vegetarian Snack,KFY-0049,Salted Butter,1,100 g,True
+RCP-048,Aloo Samosa Platter,Evening Snack,KFY-0001,Potato,1,1 kg,True
+RCP-048,Aloo Samosa Platter,Evening Snack,KFY-0104,Maida,1,1 kg,False
+RCP-048,Aloo Samosa Platter,Evening Snack,KFY-0139,Cumin Seeds,1,100 g,True
+RCP-048,Aloo Samosa Platter,Evening Snack,KFY-0012,Green Chillies,1,250 g,True
+RCP-048,Aloo Samosa Platter,Evening Snack,KFY-0135,Cooking Oil,1,1 litre,True
+RCP-049,Chicken Spring Rolls,Evening Snack,KFY-0071,Chicken Whole,1,1 kg,False
+RCP-049,Chicken Spring Rolls,Evening Snack,KFY-0104,Maida,1,1 kg,False
+RCP-049,Chicken Spring Rolls,Evening Snack,KFY-0002,Onion,1,1 kg,True
+RCP-049,Chicken Spring Rolls,Evening Snack,KFY-0141,Black Pepper Whole,1,50 g,True
+RCP-049,Chicken Spring Rolls,Evening Snack,KFY-0135,Cooking Oil,1,1 litre,True
+RCP-050,Rice Kheer (Traditional Dessert),Traditional Dessert,KFY-0105,Basmati Rice Super Kernel,1,1 kg,True
+RCP-050,Rice Kheer (Traditional Dessert),Traditional Dessert,KFY-0041,Fresh Milk,1,1 litre,False
+RCP-050,Rice Kheer (Traditional Dessert),Traditional Dessert,KFY-0111,Sugar,1,1 kg,True
+RCP-050,Rice Kheer (Traditional Dessert),Traditional Dessert,KFY-0223,Lurpak Almond Milk Unsweetened - Economy,1,1 Liter,False
+RCP-051,Suji Halwa,Traditional Dessert,KFY-0111,Sugar,1,1 kg,True
+RCP-051,Suji Halwa,Traditional Dessert,KFY-0047,Desi Ghee,1,500 g,True
+RCP-051,Suji Halwa,Traditional Dessert,KFY-0223,Lurpak Almond Milk Unsweetened - Economy,1,1 Liter,False
+RCP-051,Suji Halwa,Traditional Dessert,KFY-0316,Lay’s Pistachios Salted (Pista) - Classic,1,250g,True
+RCP-052,Gajar Ka Halwa,Winter Dessert,KFY-0004,Red Carrot,1,1 kg,False
+RCP-052,Gajar Ka Halwa,Winter Dessert,KFY-0041,Fresh Milk,1,1 litre,False
+RCP-052,Gajar Ka Halwa,Winter Dessert,KFY-0111,Sugar,1,1 kg,True
+RCP-052,Gajar Ka Halwa,Winter Dessert,KFY-0047,Desi Ghee,1,500 g,True
+RCP-052,Gajar Ka Halwa,Winter Dessert,KFY-0223,Lurpak Almond Milk Unsweetened - Economy,1,1 Liter,False
+RCP-053,Kashmiri Chai (Pink Tea),Beverage,KFY-0323,Nimco Kashmiri Pink Tea Mix - Family Size,1,200g,True
+RCP-053,Kashmiri Chai (Pink Tea),Beverage,KFY-0041,Fresh Milk,1,1 litre,False
+RCP-053,Kashmiri Chai (Pink Tea),Beverage,KFY-0111,Sugar,1,1 kg,True
+RCP-053,Kashmiri Chai (Pink Tea),Beverage,KFY-0316,Lay’s Pistachios Salted (Pista) - Classic,1,250g,True
+RCP-054,Masala Doodh Patti Chai,Beverage,KFY-0163,Apple Cider Vinegar,1,500 ml,False
+RCP-054,Masala Doodh Patti Chai,Beverage,KFY-0041,Fresh Milk,1,1 litre,False
+RCP-054,Masala Doodh Patti Chai,Beverage,KFY-0111,Sugar,1,1 kg,True
+RCP-055,Diabetic-Friendly Green Tea & Almonds,Diabetic-Friendly / Weight-Loss,KFY-0321,Ismail Industries Green Tea Lemon & Honey - Economy,1,25 bags,True
+RCP-055,Diabetic-Friendly Green Tea & Almonds,Diabetic-Friendly / Weight-Loss,KFY-0223,Lurpak Almond Milk Unsweetened - Economy,1,1 Liter,False
+RCP-055,Diabetic-Friendly Green Tea & Almonds,Diabetic-Friendly / Weight-Loss,KFY-0166,Soy Sauce,1,300 ml,False
+RCP-056,Quinoa & Chickpea Protein Bowl,Weight-Loss / Vegan / High-Protein,KFY-0248,Reem Quinoa White Organic - Economy,1,500g,False
+RCP-056,Quinoa & Chickpea Protein Bowl,Weight-Loss / Vegan / High-Protein,KFY-0244,Kifayah Staples Black Chickpeas (Kala Chana) - Economy,1,500g,False
+RCP-056,Quinoa & Chickpea Protein Bowl,Weight-Loss / Vegan / High-Protein,KFY-0005,Cucumber,1,1 kg,False
+RCP-056,Quinoa & Chickpea Protein Bowl,Weight-Loss / Vegan / High-Protein,KFY-0259,Eva Extra Virgin Olive Oil Tin - Value Pack,1,250ml,True
+RCP-057,Oats & Chia Weight-Loss Pudding,Weight-Loss / Diabetic-Friendly,KFY-0123,Oats,1,500 g,False
+RCP-057,Oats & Chia Weight-Loss Pudding,Weight-Loss / Diabetic-Friendly,KFY-0250,Meezan Chia Seeds Raw - Saver Pack,1,250g,False
+RCP-057,Oats & Chia Weight-Loss Pudding,Weight-Loss / Diabetic-Friendly,KFY-0223,Lurpak Almond Milk Unsweetened - Economy,1,1 Liter,False
+RCP-057,Oats & Chia Weight-Loss Pudding,Weight-Loss / Diabetic-Friendly,KFY-0035,Strawberry,1,250 g,False
+RCP-058,High-Protein Egg White Bhurji,Weight-Loss / High-Protein,KFY-0055,Farm Eggs,1,1 dozen,False
+RCP-058,High-Protein Egg White Bhurji,Weight-Loss / High-Protein,KFY-0002,Onion,1,1 kg,True
+RCP-058,High-Protein Egg White Bhurji,Weight-Loss / High-Protein,KFY-0003,Tomato,1,1 kg,False
+RCP-058,High-Protein Egg White Bhurji,Weight-Loss / High-Protein,KFY-0012,Green Chillies,1,250 g,True
+RCP-058,High-Protein Egg White Bhurji,Weight-Loss / High-Protein,KFY-0259,Eva Extra Virgin Olive Oil Tin - Value Pack,1,250ml,True
+RCP-059,Keto Beef Burger Bowl (No Bun),Keto / High-Protein,KFY-0178,Cupcakes,1,4 pieces,False
+RCP-059,Keto Beef Burger Bowl (No Bun),Keto / High-Protein,KFY-0050,Cheddar Cheese,1,200 g,False
+RCP-059,Keto Beef Burger Bowl (No Bun),Keto / High-Protein,KFY-0167,Mayonnaise,1,500 ml,False
+RCP-059,Keto Beef Burger Bowl (No Bun),Keto / High-Protein,KFY-0005,Cucumber,1,1 kg,False
+RCP-059,Keto Beef Burger Bowl (No Bun),Keto / High-Protein,KFY-0048,Butter,1,200 g,False
+RCP-060,Chicken Macaroni (Desi Style),Family Meal,KFY-0071,Chicken Whole,1,1 kg,False
+RCP-060,Chicken Macaroni (Desi Style),Family Meal,KFY-0181,Croissant,1,2 pieces,False
+RCP-060,Chicken Macaroni (Desi Style),Family Meal,KFY-0164,Tomato Ketchup,1,500 g,False
+RCP-060,Chicken Macaroni (Desi Style),Family Meal,KFY-0003,Tomato,1,1 kg,False
+RCP-060,Chicken Macaroni (Desi Style),Family Meal,KFY-0135,Cooking Oil,1,1 litre,True
+RCP-061,Beef Spaghetti Bolognese,High-Protein Meal,KFY-0184,Spring Rolls,1,6 pieces,False
+RCP-061,Beef Spaghetti Bolognese,High-Protein Meal,KFY-0184,Spring Rolls,1,6 pieces,False
+RCP-061,Beef Spaghetti Bolognese,High-Protein Meal,KFY-0003,Tomato,1,1 kg,False
+RCP-061,Beef Spaghetti Bolognese,High-Protein Meal,KFY-0014,Garlic,1,250 g,True
+RCP-061,Beef Spaghetti Bolognese,High-Protein Meal,KFY-0259,Eva Extra Virgin Olive Oil Tin - Value Pack,1,250ml,True
+RCP-062,Mutton Kunna (Chinioti),Traditional Pakistani,KFY-0080,Mutton Boneless,1,500 g,False
+RCP-062,Mutton Kunna (Chinioti),Traditional Pakistani,KFY-0234,Sufi Multi-Grain Chakki Atta - Chef's Choice,1,5 kg,True
+RCP-062,Mutton Kunna (Chinioti),Traditional Pakistani,KFY-0047,Desi Ghee,1,500 g,True
+RCP-062,Mutton Kunna (Chinioti),Traditional Pakistani,KFY-0143,Garam Masala,1,100 g,True
+RCP-062,Mutton Kunna (Chinioti),Traditional Pakistani,KFY-0015,Ginger,1,250 g,True
+RCP-063,Chicken Sajji with Rice,Traditional Balochi,KFY-0071,Chicken Whole,1,1 kg,False
+RCP-063,Chicken Sajji with Rice,Traditional Balochi,KFY-0105,Basmati Rice Super Kernel,1,1 kg,True
+RCP-063,Chicken Sajji with Rice,Traditional Balochi,KFY-0013,Lemon,1,500 g,False
+RCP-063,Chicken Sajji with Rice,Traditional Balochi,KFY-0049,Salted Butter,1,100 g,True
+RCP-063,Chicken Sajji with Rice,Traditional Balochi,KFY-0135,Cooking Oil,1,1 litre,True
+RCP-064,Tawa Chicken (Lahori),High-Protein / Spicy,KFY-0071,Chicken Whole,1,1 kg,False
+RCP-064,Tawa Chicken (Lahori),High-Protein / Spicy,KFY-0045,Plain Yogurt,1,1 kg,False
+RCP-064,Tawa Chicken (Lahori),High-Protein / Spicy,KFY-0012,Green Chillies,1,250 g,True
+RCP-064,Tawa Chicken (Lahori),High-Protein / Spicy,KFY-0013,Lemon,1,500 g,False
+RCP-064,Tawa Chicken (Lahori),High-Protein / Spicy,KFY-0048,Butter,1,200 g,False
+RCP-065,Nargisi Kofta,High-Protein / Festive,KFY-0196,Cream Biscuits,1,1 pack,False
+RCP-065,Nargisi Kofta,High-Protein / Festive,KFY-0055,Farm Eggs,1,1 dozen,False
+RCP-065,Nargisi Kofta,High-Protein / Festive,KFY-0002,Onion,1,1 kg,True
+RCP-065,Nargisi Kofta,High-Protein / Festive,KFY-0003,Tomato,1,1 kg,False
+RCP-065,Nargisi Kofta,High-Protein / Festive,KFY-0147,Qorma Masala,1,50 g,True
+RCP-066,Chicken Malai Boti,High-Protein / Keto,KFY-0071,Chicken Whole,1,1 kg,False
+RCP-066,Chicken Malai Boti,High-Protein / Keto,KFY-0044,Full Cream Milk Powder,1,400 g,False
+RCP-066,Chicken Malai Boti,High-Protein / Keto,KFY-0045,Plain Yogurt,1,1 kg,False
+RCP-066,Chicken Malai Boti,High-Protein / Keto,KFY-0141,Black Pepper Whole,1,50 g,True
+RCP-066,Chicken Malai Boti,High-Protein / Keto,KFY-0048,Butter,1,200 g,False
+RCP-067,Daal Chana Fry,Vegetarian / High-Protein,KFY-0202,Sufi Boneless Chicken Cubes - Classic,1,1 kg,False
+RCP-067,Daal Chana Fry,Vegetarian / High-Protein,KFY-0002,Onion,1,1 kg,True
+RCP-067,Daal Chana Fry,Vegetarian / High-Protein,KFY-0003,Tomato,1,1 kg,False
+RCP-067,Daal Chana Fry,Vegetarian / High-Protein,KFY-0014,Garlic,1,250 g,True
+RCP-067,Daal Chana Fry,Vegetarian / High-Protein,KFY-0047,Desi Ghee,1,500 g,True
+RCP-068,Matar Paneer,Vegetarian / High-Protein,KFY-0061,Paneer,1,250 g,False
+RCP-068,Matar Paneer,Vegetarian / High-Protein,KFY-0003,Tomato,1,1 kg,False
+RCP-068,Matar Paneer,Vegetarian / High-Protein,KFY-0002,Onion,1,1 kg,True
+RCP-068,Matar Paneer,Vegetarian / High-Protein,KFY-0044,Full Cream Milk Powder,1,400 g,False
+RCP-068,Matar Paneer,Vegetarian / High-Protein,KFY-0143,Garam Masala,1,100 g,True
+RCP-069,Aloo Palak,Vegetarian / Iron-Rich,KFY-0009,Spinach,1,1 bunch,False
+RCP-069,Aloo Palak,Vegetarian / Iron-Rich,KFY-0001,Potato,1,1 kg,True
+RCP-069,Aloo Palak,Vegetarian / Iron-Rich,KFY-0014,Garlic,1,250 g,True
+RCP-069,Aloo Palak,Vegetarian / Iron-Rich,KFY-0012,Green Chillies,1,250 g,True
+RCP-069,Aloo Palak,Vegetarian / Iron-Rich,KFY-0135,Cooking Oil,1,1 litre,True
+RCP-070,Chicken Hareesa,High-Protein / Winter,KFY-0071,Chicken Whole,1,1 kg,False
+RCP-070,Chicken Hareesa,High-Protein / Winter,KFY-0123,Oats,1,500 g,False
+RCP-070,Chicken Hareesa,High-Protein / Winter,KFY-0238,Kolson Daal Moong Washed - Family Size,1,500g,True
+RCP-070,Chicken Hareesa,High-Protein / Winter,KFY-0047,Desi Ghee,1,500 g,True
+RCP-070,Chicken Hareesa,High-Protein / Winter,KFY-0015,Ginger,1,250 g,True
+RCP-071,Mutton Rosh (Peshawari),Keto / High-Protein,KFY-0080,Mutton Boneless,1,500 g,False
+RCP-071,Mutton Rosh (Peshawari),Keto / High-Protein,KFY-0001,Potato,1,1 kg,True
+RCP-071,Mutton Rosh (Peshawari),Keto / High-Protein,KFY-0002,Onion,1,1 kg,True
+RCP-071,Mutton Rosh (Peshawari),Keto / High-Protein,KFY-0014,Garlic,1,250 g,True
+RCP-071,Mutton Rosh (Peshawari),Keto / High-Protein,KFY-0141,Black Pepper Whole,1,50 g,True
+RCP-072,Beef Pasanday,Traditional Pakistani,KFY-0076,Beef Boneless,1,1 kg,False
+RCP-072,Beef Pasanday,Traditional Pakistani,KFY-0045,Plain Yogurt,1,1 kg,False
+RCP-072,Beef Pasanday,Traditional Pakistani,KFY-0002,Onion,1,1 kg,True
+RCP-072,Beef Pasanday,Traditional Pakistani,KFY-0147,Qorma Masala,1,50 g,True
+RCP-072,Beef Pasanday,Traditional Pakistani,KFY-0047,Desi Ghee,1,500 g,True
+RCP-073,Chicken Steam Roast,High-Protein / Weight-Loss,KFY-0071,Chicken Whole,1,1 kg,False
+RCP-073,Chicken Steam Roast,High-Protein / Weight-Loss,KFY-0045,Plain Yogurt,1,1 kg,False
+RCP-073,Chicken Steam Roast,High-Protein / Weight-Loss,KFY-0013,Lemon,1,500 g,False
+RCP-073,Chicken Steam Roast,High-Protein / Weight-Loss,KFY-0266,National Tikka Boti Masala - Select,1,50g,True
+RCP-074,Fish Biryani,High-Protein / Coastal,KFY-0084,Fresh Rohu,1,1 kg,False
+RCP-074,Fish Biryani,High-Protein / Coastal,KFY-0105,Basmati Rice Super Kernel,1,1 kg,True
+RCP-074,Fish Biryani,High-Protein / Coastal,KFY-0144,Biryani Masala,1,50 g,True
+RCP-074,Fish Biryani,High-Protein / Coastal,KFY-0003,Tomato,1,1 kg,False
+RCP-074,Fish Biryani,High-Protein / Coastal,KFY-0045,Plain Yogurt,1,1 kg,False
+RCP-075,Prawn Pulao,High-Protein / Coastal,KFY-0089,Prawns Medium,1,500 g,False
+RCP-075,Prawn Pulao,High-Protein / Coastal,KFY-0105,Basmati Rice Super Kernel,1,1 kg,True
+RCP-075,Prawn Pulao,High-Protein / Coastal,KFY-0002,Onion,1,1 kg,True
+RCP-075,Prawn Pulao,High-Protein / Coastal,KFY-0143,Garam Masala,1,100 g,True
+RCP-075,Prawn Pulao,High-Protein / Coastal,KFY-0135,Cooking Oil,1,1 litre,True
+RCP-076,Keto Mozzarella & Egg Frittata,Keto / High-Protein,KFY-0055,Farm Eggs,1,1 dozen,False
+RCP-076,Keto Mozzarella & Egg Frittata,Keto / High-Protein,KFY-0051,Mozzarella Cheese,1,200 g,False
+RCP-076,Keto Mozzarella & Egg Frittata,Keto / High-Protein,KFY-0009,Spinach,1,1 bunch,False
+RCP-076,Keto Mozzarella & Egg Frittata,Keto / High-Protein,KFY-0259,Eva Extra Virgin Olive Oil Tin - Value Pack,1,250ml,True
+RCP-077,Brown Rice & Grilled Chicken,Weight-Loss / High-Protein,KFY-0108,Brown Rice,1,1 kg,True
+RCP-077,Brown Rice & Grilled Chicken,Weight-Loss / High-Protein,KFY-0071,Chicken Whole,1,1 kg,False
+RCP-077,Brown Rice & Grilled Chicken,Weight-Loss / High-Protein,KFY-0038,Broccoli,1,500 g,False
+RCP-077,Brown Rice & Grilled Chicken,Weight-Loss / High-Protein,KFY-0259,Eva Extra Virgin Olive Oil Tin - Value Pack,1,250ml,True
+RCP-078,Avocado & Boiled Egg Toast,Healthy Breakfast,KFY-0292,Multan Orchards Avocado Ripe Imported - Classic,1,2 pcs,False
+RCP-078,Avocado & Boiled Egg Toast,Healthy Breakfast,KFY-0055,Farm Eggs,1,1 dozen,False
+RCP-078,Avocado & Boiled Egg Toast,Healthy Breakfast,KFY-0302,Lipton Whole Wheat Bran Bread - Saver Pack,1,Large,False
+RCP-078,Avocado & Boiled Egg Toast,Healthy Breakfast,KFY-0141,Black Pepper Whole,1,50 g,True
+RCP-079,Walnut & Honey Yogurt Bowl,Healthy Snack / High-Protein,KFY-0046,Greek Yogurt,1,400 g,False
+RCP-079,Walnut & Honey Yogurt Bowl,Healthy Snack / High-Protein,KFY-0312,Ismail Industries Roasted Walnuts (Akhrot) - Saver Pack,1,250g,False
+RCP-079,Walnut & Honey Yogurt Bowl,Healthy Snack / High-Protein,KFY-0321,Ismail Industries Green Tea Lemon & Honey - Economy,1,25 bags,True
+RCP-080,Aloo Tikki (Crispy Cutlets),Evening Snack,KFY-0001,Potato,1,1 kg,True
+RCP-080,Aloo Tikki (Crispy Cutlets),Evening Snack,KFY-0012,Green Chillies,1,250 g,True
+RCP-080,Aloo Tikki (Crispy Cutlets),Evening Snack,KFY-0010,Fresh Coriander,1,1 bunch,False
+RCP-080,Aloo Tikki (Crispy Cutlets),Evening Snack,KFY-0139,Cumin Seeds,1,100 g,True
+RCP-080,Aloo Tikki (Crispy Cutlets),Evening Snack,KFY-0135,Cooking Oil,1,1 litre,True
+RCP-081,Chicken Shashlik Skewers,Keto / High-Protein,KFY-0071,Chicken Whole,1,1 kg,False
+RCP-081,Chicken Shashlik Skewers,Keto / High-Protein,KFY-0002,Onion,1,1 kg,True
+RCP-081,Chicken Shashlik Skewers,Keto / High-Protein,KFY-0003,Tomato,1,1 kg,False
+RCP-081,Chicken Shashlik Skewers,Keto / High-Protein,KFY-0259,Eva Extra Virgin Olive Oil Tin - Value Pack,1,250ml,True
+RCP-081,Chicken Shashlik Skewers,Keto / High-Protein,KFY-0141,Black Pepper Whole,1,50 g,True
+RCP-082,Mutton Kaleji Masala,High-Protein / Iron-Rich,KFY-0080,Mutton Boneless,1,500 g,False
+RCP-082,Mutton Kaleji Masala,High-Protein / Iron-Rich,KFY-0003,Tomato,1,1 kg,False
+RCP-082,Mutton Kaleji Masala,High-Protein / Iron-Rich,KFY-0014,Garlic,1,250 g,True
+RCP-082,Mutton Kaleji Masala,High-Protein / Iron-Rich,KFY-0143,Garam Masala,1,100 g,True
+RCP-082,Mutton Kaleji Masala,High-Protein / Iron-Rich,KFY-0135,Cooking Oil,1,1 litre,True
+RCP-083,Beef Bihari Boti,High-Protein / BBQ,KFY-0076,Beef Boneless,1,1 kg,False
+RCP-083,Beef Bihari Boti,High-Protein / BBQ,KFY-0045,Plain Yogurt,1,1 kg,False
+RCP-083,Beef Bihari Boti,High-Protein / BBQ,KFY-0266,National Tikka Boti Masala - Select,1,50g,True
+RCP-083,Beef Bihari Boti,High-Protein / BBQ,KFY-0135,Cooking Oil,1,1 litre,True
+RCP-083,Beef Bihari Boti,High-Protein / BBQ,KFY-0002,Onion,1,1 kg,True
+RCP-084,Chicken Green Masala Karahi,High-Protein / Keto,KFY-0071,Chicken Whole,1,1 kg,False
+RCP-084,Chicken Green Masala Karahi,High-Protein / Keto,KFY-0010,Fresh Coriander,1,1 bunch,False
+RCP-084,Chicken Green Masala Karahi,High-Protein / Keto,KFY-0012,Green Chillies,1,250 g,True
+RCP-084,Chicken Green Masala Karahi,High-Protein / Keto,KFY-0045,Plain Yogurt,1,1 kg,False
+RCP-084,Chicken Green Masala Karahi,High-Protein / Keto,KFY-0135,Cooking Oil,1,1 litre,True
+RCP-085,Lobia Masala (Red Kidney Beans),Vegetarian / High-Protein,KFY-0242,Kolson Red Kidney Beans (Lobia) - Family Size,1,500g,False
+RCP-085,Lobia Masala (Red Kidney Beans),Vegetarian / High-Protein,KFY-0002,Onion,1,1 kg,True
+RCP-085,Lobia Masala (Red Kidney Beans),Vegetarian / High-Protein,KFY-0003,Tomato,1,1 kg,False
+RCP-085,Lobia Masala (Red Kidney Beans),Vegetarian / High-Protein,KFY-0014,Garlic,1,250 g,True
+RCP-085,Lobia Masala (Red Kidney Beans),Vegetarian / High-Protein,KFY-0135,Cooking Oil,1,1 litre,True
+RCP-086,Kala Chana Curry,Vegetarian / Diabetic-Friendly,KFY-0244,Kifayah Staples Black Chickpeas (Kala Chana) - Economy,1,500g,False
+RCP-086,Kala Chana Curry,Vegetarian / Diabetic-Friendly,KFY-0002,Onion,1,1 kg,True
+RCP-086,Kala Chana Curry,Vegetarian / Diabetic-Friendly,KFY-0003,Tomato,1,1 kg,False
+RCP-086,Kala Chana Curry,Vegetarian / Diabetic-Friendly,KFY-0137,Turmeric Powder,1,100 g,True
+RCP-086,Kala Chana Curry,Vegetarian / Diabetic-Friendly,KFY-0135,Cooking Oil,1,1 litre,True
+RCP-087,Besan Ka Chilla (Savory Pancake),Weight-Loss / Gluten-Free,KFY-0128,Gram Flour Besan,1,500 g,True
+RCP-087,Besan Ka Chilla (Savory Pancake),Weight-Loss / Gluten-Free,KFY-0002,Onion,1,1 kg,True
+RCP-087,Besan Ka Chilla (Savory Pancake),Weight-Loss / Gluten-Free,KFY-0003,Tomato,1,1 kg,False
+RCP-087,Besan Ka Chilla (Savory Pancake),Weight-Loss / Gluten-Free,KFY-0012,Green Chillies,1,250 g,True
+RCP-087,Besan Ka Chilla (Savory Pancake),Weight-Loss / Gluten-Free,KFY-0259,Eva Extra Virgin Olive Oil Tin - Value Pack,1,250ml,True
+RCP-088,Chicken Pakora,Evening Snack,KFY-0071,Chicken Whole,1,1 kg,False
+RCP-088,Chicken Pakora,Evening Snack,KFY-0128,Gram Flour Besan,1,500 g,True
+RCP-088,Chicken Pakora,Evening Snack,KFY-0012,Green Chillies,1,250 g,True
+RCP-088,Chicken Pakora,Evening Snack,KFY-0139,Cumin Seeds,1,100 g,True
+RCP-088,Chicken Pakora,Evening Snack,KFY-0135,Cooking Oil,1,1 litre,True
+RCP-089,Bread Pakora,Evening Snack,KFY-0171,White Bread,1,1 loaf,False
+RCP-089,Bread Pakora,Evening Snack,KFY-0128,Gram Flour Besan,1,500 g,True
+RCP-089,Bread Pakora,Evening Snack,KFY-0001,Potato,1,1 kg,True
+RCP-089,Bread Pakora,Evening Snack,KFY-0012,Green Chillies,1,250 g,True
+RCP-089,Bread Pakora,Evening Snack,KFY-0135,Cooking Oil,1,1 litre,True
+RCP-090,Chicken Club Sandwich,Lunch / Snack,KFY-0071,Chicken Whole,1,1 kg,False
+RCP-090,Chicken Club Sandwich,Lunch / Snack,KFY-0171,White Bread,1,1 loaf,False
+RCP-090,Chicken Club Sandwich,Lunch / Snack,KFY-0055,Farm Eggs,1,1 dozen,False
+RCP-090,Chicken Club Sandwich,Lunch / Snack,KFY-0167,Mayonnaise,1,500 ml,False
+RCP-090,Chicken Club Sandwich,Lunch / Snack,KFY-0005,Cucumber,1,1 kg,False
+RCP-091,Keto Tuna & Mayo Lettuce Wraps,Keto / High-Protein,KFY-0084,Fresh Rohu,1,1 kg,False
+RCP-091,Keto Tuna & Mayo Lettuce Wraps,Keto / High-Protein,KFY-0167,Mayonnaise,1,500 ml,False
+RCP-091,Keto Tuna & Mayo Lettuce Wraps,Keto / High-Protein,KFY-0005,Cucumber,1,1 kg,False
+RCP-091,Keto Tuna & Mayo Lettuce Wraps,Keto / High-Protein,KFY-0259,Eva Extra Virgin Olive Oil Tin - Value Pack,1,250ml,True
+RCP-092,Mango Lassi (Summer Drink),Beverage,KFY-0028,Mango Chaunsa,1,1 kg,False
+RCP-092,Mango Lassi (Summer Drink),Beverage,KFY-0045,Plain Yogurt,1,1 kg,False
+RCP-092,Mango Lassi (Summer Drink),Beverage,KFY-0041,Fresh Milk,1,1 litre,False
+RCP-092,Mango Lassi (Summer Drink),Beverage,KFY-0111,Sugar,1,1 kg,True
+RCP-093,Banana Date Protein Shake,High-Energy / Post-Workout,KFY-0026,Banana,1,1 dozen,False
+RCP-093,Banana Date Protein Shake,High-Energy / Post-Workout,KFY-0041,Fresh Milk,1,1 litre,False
+RCP-093,Banana Date Protein Shake,High-Energy / Post-Workout,KFY-0223,Lurpak Almond Milk Unsweetened - Economy,1,1 Liter,False
+RCP-093,Banana Date Protein Shake,High-Energy / Post-Workout,KFY-0123,Oats,1,500 g,False
+RCP-094,Shahi Tukray,Festive Dessert,KFY-0171,White Bread,1,1 loaf,False
+RCP-094,Shahi Tukray,Festive Dessert,KFY-0041,Fresh Milk,1,1 litre,False
+RCP-094,Shahi Tukray,Festive Dessert,KFY-0111,Sugar,1,1 kg,True
+RCP-094,Shahi Tukray,Festive Dessert,KFY-0047,Desi Ghee,1,500 g,True
+RCP-094,Shahi Tukray,Festive Dessert,KFY-0316,Lay’s Pistachios Salted (Pista) - Classic,1,250g,True
+RCP-095,Seviyan (Vermicelli) Kheer,Festive Dessert,KFY-0286,Punjab Harvest Sweet Corn Kernel - Value Pack,1,500g,False
+RCP-095,Seviyan (Vermicelli) Kheer,Festive Dessert,KFY-0041,Fresh Milk,1,1 litre,False
+RCP-095,Seviyan (Vermicelli) Kheer,Festive Dessert,KFY-0111,Sugar,1,1 kg,True
+RCP-095,Seviyan (Vermicelli) Kheer,Festive Dessert,KFY-0223,Lurpak Almond Milk Unsweetened - Economy,1,1 Liter,False
+RCP-095,Seviyan (Vermicelli) Kheer,Festive Dessert,KFY-0047,Desi Ghee,1,500 g,True
+RCP-096,Chicken Yakhni Soup,Weight-Loss / Immunity,KFY-0071,Chicken Whole,1,1 kg,False
+RCP-096,Chicken Yakhni Soup,Weight-Loss / Immunity,KFY-0014,Garlic,1,250 g,True
+RCP-096,Chicken Yakhni Soup,Weight-Loss / Immunity,KFY-0015,Ginger,1,250 g,True
+RCP-096,Chicken Yakhni Soup,Weight-Loss / Immunity,KFY-0141,Black Pepper Whole,1,50 g,True
+RCP-096,Chicken Yakhni Soup,Weight-Loss / Immunity,KFY-0049,Salted Butter,1,100 g,True
+RCP-097,Mutton Paye,Traditional Pakistani,KFY-0080,Mutton Boneless,1,500 g,False
+RCP-097,Mutton Paye,Traditional Pakistani,KFY-0002,Onion,1,1 kg,True
+RCP-097,Mutton Paye,Traditional Pakistani,KFY-0014,Garlic,1,250 g,True
+RCP-097,Mutton Paye,Traditional Pakistani,KFY-0143,Garam Masala,1,100 g,True
+RCP-097,Mutton Paye,Traditional Pakistani,KFY-0047,Desi Ghee,1,500 g,True
+RCP-098,BeefQeema Paratha,Traditional Breakfast,KFY-0295,Kifayah Fresh Pomegranate (Anar Kandahari) - Value Pack,1,2 kg,False
+RCP-098,BeefQeema Paratha,Traditional Breakfast,KFY-0234,Sufi Multi-Grain Chakki Atta - Chef's Choice,1,5 kg,True
+RCP-098,BeefQeema Paratha,Traditional Breakfast,KFY-0002,Onion,1,1 kg,True
+RCP-098,BeefQeema Paratha,Traditional Breakfast,KFY-0012,Green Chillies,1,250 g,True
+RCP-098,BeefQeema Paratha,Traditional Breakfast,KFY-0047,Desi Ghee,1,500 g,True
+RCP-099,Chicken Kofta Curry,High-Protein / Traditional,KFY-0071,Chicken Whole,1,1 kg,False
+RCP-099,Chicken Kofta Curry,High-Protein / Traditional,KFY-0128,Gram Flour Besan,1,500 g,True
+RCP-099,Chicken Kofta Curry,High-Protein / Traditional,KFY-0002,Onion,1,1 kg,True
+RCP-099,Chicken Kofta Curry,High-Protein / Traditional,KFY-0003,Tomato,1,1 kg,False
+RCP-099,Chicken Kofta Curry,High-Protein / Traditional,KFY-0147,Qorma Masala,1,50 g,True
+RCP-100,Mix Vegetable & Paneer Stir Fry,Keto / Vegetarian,KFY-0038,Broccoli,1,500 g,False
+RCP-100,Mix Vegetable & Paneer Stir Fry,Keto / Vegetarian,KFY-0061,Paneer,1,250 g,False
+RCP-100,Mix Vegetable & Paneer Stir Fry,Keto / Vegetarian,KFY-0009,Spinach,1,1 bunch,False
+RCP-100,Mix Vegetable & Paneer Stir Fry,Keto / Vegetarian,KFY-0259,Eva Extra Virgin Olive Oil Tin - Value Pack,1,250ml,True
+RCP-100,Mix Vegetable & Paneer Stir Fry,Keto / Vegetarian,KFY-0014,Garlic,1,250 g,True

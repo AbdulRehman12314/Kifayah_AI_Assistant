@@ -1,7 +1,7 @@
 experiment,chunk_size,overlap,k,question,expected_source_files,retrieved_source_files,required_evidence_retrieved,irrelevant_evidence_retrieved_review,final_answer_correct_review
-baseline,850,120,1,How do I place an order with Kifayah?,company_overview.csv,company_overview.csv,True,None,Correct: Website/App cart checkout
-baseline,850,120,3,How do I place an order with Kifayah?,company_overview.csv,company_overview.csv,True,None,Correct: Website/App cart checkout
-baseline,850,120,5,How do I place an order with Kifayah?,company_overview.csv,company_overview.csv,True,Minor general intro chunk,Correct: Website/App cart checkout
-baseline,850,120,1,What are the ingredients needed to make aloo gosht?,recipe_ingredient_mapping.csv,recipe_ingredient_mapping.csv,True,None,Correct: Potatoes, meat, spices
-baseline,850,120,3,What are the ingredients needed to make aloo gosht?,recipe_ingredient_mapping.csv,recipe_ingredient_mapping.csv,True,None,Correct: Potatoes, meat, spices
-baseline,850,120,5,What are the ingredients needed to make aloo gosht?,recipe_ingredient_mapping.csv,recipe_ingredient_mapping.csv,True,Adjacent recipe chunk,Correct: Potatoes, meat, spices
+baseline_rag,850,120,1,How do I place an order with Kifayah?,delivery_and_shipping_terms.pdf; customer_support_kb.pdf,customer_support_kb.pdf,True,None,Correct: Website/App cart checkout or AI Copilot checkout
+baseline_rag,850,120,3,How do I place an order with Kifayah?,delivery_and_shipping_terms.pdf; customer_support_kb.pdf,delivery_and_shipping_terms.pdf; customer_support_kb.pdf,True,None,Correct: Website/App cart checkout or AI Copilot checkout
+scaled_agentic,600,80,3,What are the ingredients needed to make Chicken Biryani?,recipes_master_100.csv; kifayah_supermart_inventory_552.csv,recipes_master_100.csv; kifayah_supermart_inventory_552.csv,True,None,"Correct: Chicken Whole, Basmati Rice, Onion, Tomato, Biryani Masala with live PKR prices"
+scaled_agentic,600,80,3,Make a weekly weight-loss grocery plan within 2500 PKR,kifayah_supermart_inventory_552.csv (kifayah_store.db),kifayah_supermart_inventory_552.csv (kifayah_store.db),True,None,"Correct: Prioritized weight-loss items strictly under Rs. 2,500"
+scaled_agentic,600,80,3,What is the return policy and delivery fee structure?,return_and_refund_policy.pdf; delivery_and_shipping_terms.pdf,return_and_refund_policy.pdf; delivery_and_shipping_terms.pdf,True,None,"Correct: 7-day return window; Free delivery on orders >= Rs. 2,000, Rs. 150 below"
+scaled_agentic,600,80,5,Show high-protein items excluding dairy and peanuts,kifayah_supermart_inventory_552.csv (kifayah_store.db),kifayah_supermart_inventory_552.csv (kifayah_store.db),True,None,Correct: Filtered out dairy/peanut allergens and returned poultry/fish/lentils
